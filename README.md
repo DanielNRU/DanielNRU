@@ -17,16 +17,16 @@
     <img src="https://skillicons.dev/icons?i=python" width="36" height="36" alt="Python" />
   </a>
   <a href="https://www.sql.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6c/SQL_logo.svg" width="36" height="36" alt="SQL" />
+    <img src="https://github.com/devicons/devicon/raw/master/icons/postgresql/postgresql-original.svg" width="36" height="36" alt="SQL" />
   </a>
 </p>
 Библиотеки для анализа данных и машинного обучения
 <p align="left">
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/external-flat-juicy-fish/50/000000/external-pandas-data-science-and-machine-learning-flat-flat-juicy-fish.png" width="36" height="36" alt="Pandas" />
+    <img src="https://github.com/devicons/devicon/raw/master/icons/pandas/pandas-original.svg" width="36" height="36" alt="Pandas" />
   </a>
   <a href="https://numpy.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/external-flat-juicy-fish/50/000000/external-numpy-data-science-and-machine-learning-flat-flat-juicy-fish.png" width="36" height="36" alt="NumPy" />
+    <img src="https://github.com/devicons/devicon/raw/master/icons/numpy/numpy-original-wordmark.svg" width="36" height="36" alt="NumPy" />
   </a>
   <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=matplotlib" width="36" height="36" alt="Matplotlib" />
@@ -38,7 +38,7 @@
     <img src="https://img.icons8.com/external-flat-juicy-fish/50/000000/external-xgboost-data-science-and-machine-learning-flat-flat-juicy-fish.png" width="36" height="36" alt="XGBoost" />
   </a>
   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=scikit-learn" width="36" height="36" alt="Scikit-learn" />
+    <img src="https://github.com/devicons/devicon/raw/master/icons/scikitlearn/scikitlearn-original.svg" width="36" height="36" alt="Scikit-learn" />
   </a>
   <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=tensorflow" width="36" height="36" alt="TensorFlow" />
