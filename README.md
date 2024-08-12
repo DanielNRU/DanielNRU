@@ -12,64 +12,29 @@
 
 ### Навыки
 
-#### Языки программирования
+### Языки программирования
 
 <p align="left">
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" width="48" height="48" alt="Python" />
-  </a>
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white" width="48" height="48" alt="SQL" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=python" width="36" height="36" alt="Python" />
+  <img src="https://skillicons.dev/icons?i=sql" width="36" height="36" alt="SQL" />
 </p>
 
-#### Основные библиотеки Python и Data Science
+### Библиотеки для анализа данных и машинного обучения
 
 <p align="left">
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" width="48" height="48" alt="Pandas" />
-  </a>
-  <a href="https://numpy.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" width="48" height="48" alt="NumPy" />
-  </a>
-  <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Matplotlib-115570?style=for-the-badge&logo=matplotlib&logoColor=white" width="48" height="48" alt="Matplotlib" />
-  </a>
-  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Seaborn-1F77B4?style=for-the-badge&logo=seaborn&logoColor=white" width="48" height="48" alt="Seaborn" />
-  </a>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Pandas_logo.svg/1200px-Pandas_logo.svg.png" width="36" height="36" alt="Pandas" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/NumPy_logo_2020.svg/1024px-NumPy_logo_2020.svg.png" width="36" height="36" alt="NumPy" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Matplotlib_icon.svg/1024px-Matplotlib_icon.svg.png" width="36" height="36" alt="Matplotlib" />
+  <img src="https://seaborn.pydata.org/_images/seaborn-logo.svg" width="36" height="36" alt="Seaborn" />
+  <img src="https://xgboost.readthedocs.io/en/latest/_static/xgboost-logo.png" width="36" height="36" alt="XGBoost" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png" width="36" height="36" alt="Scikit-learn" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/TensorFlow_logo.svg/1024px-TensorFlow_logo.svg.png" width="36" height="36" alt="TensorFlow" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Keras_logo.svg/1280px-Keras_logo.svg.png" width="36" height="36" alt="Keras" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/PyTorch_logo_2018.svg/1024px-PyTorch_logo_2018.svg.png" width="36" height="36" alt="PyTorch" />
+  <img src="https://www.crummy.com/software/BeautifulSoup/bs4/doc/_images/beautifulsoup.png" width="36" height="36" alt="BeautifulSoup" />
+  <img src="https://folium.readthedocs.io/en/latest/_images/folium_logo.png" width="36" height="36" alt="Folium" />
 </p>
 
-#### Машинное обучение и аналитика
-
-<p align="left">
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" width="48" height="48" alt="Scikit-learn" />
-  </a>
-  <a href="https://xgboost.readthedocs.io/en/latest/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/XGBoost-0089E0?style=for-the-badge&logo=xgboost&logoColor=white" width="48" height="48" alt="XGBoost" />
-  </a>
-  <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" width="48" height="48" alt="TensorFlow" />
-  </a>
-  <a href="https://keras.io/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" width="48" height="48" alt="Keras" />
-  </a>
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" width="48" height="48" alt="PyTorch" />
-  </a>
-</p>
-
-#### Веб-скрапинг и визуализация
-
-<p align="left">
-  <a href="https://www.crummy.com/software/BeautifulSoup/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/BeautifulSoup-6D5E8F?style=for-the-badge&logo=beautifulsoup&logoColor=white" width="48" height="48" alt="BeautifulSoup" />
-  </a>
-  <a href="https://folium.readthedocs.io/en/latest/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Folium-4B9B9A?style=for-the-badge&logo=folium&logoColor=white" width="48" height="48" alt="Folium" />
-  </a>
-</p>
 
 ### Контакты
 
