@@ -12,27 +12,19 @@
 
 ### Навыки
 
-<p align="left"> 
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=python" alt="Python" />
+#### Языки программирования
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,sql" />
   </a>
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" />
-  </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=pandas" alt="Pandas" />
-  </a>
-  <a href="https://numpy.org/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=numpy" alt="NumPy" />
-  </a>
-  <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=matplotlib" alt="Matplotlib" />
-  </a>
-  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=seaborn" alt="Seaborn" />
-  </a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=scikit" alt="Scikit-learn" />
+</p>
+
+#### Инструменты и библиотеки
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=pandas,numpy,matplotlib,seaborn,scikitlearn,folium,tensorflow,keras,pytorch,beautifulsoup" />
   </a>
 </p>
 
