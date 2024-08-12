@@ -10,33 +10,33 @@
 - 🎓 Яндекс Практикум, специальность: "Data Science" (сентябрь, 2024)
 - 🎓 Кемеровский Государственный Университет, специальность: "Автоматизированные системы обработки информации и управления" (2011).
 
-### Skills
+### Навыки
 
 <p align="left"> 
   <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+    <img src="https://skillicons.dev/icons?i=python" alt="Python" />
   </a>
   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+    <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" />
   </a>
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+    <img src="https://skillicons.dev/icons?i=pandas" alt="Pandas" />
   </a>
   <a href="https://numpy.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+    <img src="https://skillicons.dev/icons?i=numpy" alt="NumPy" />
   </a>
   <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Matplotlib-#FF5733?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib" />
+    <img src="https://skillicons.dev/icons?i=matplotlib" alt="Matplotlib" />
   </a>
   <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Seaborn-#299997?style=for-the-badge&logo=seaborn&logoColor=white" alt="Seaborn" />
+    <img src="https://skillicons.dev/icons?i=seaborn" alt="Seaborn" />
   </a>
   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn" />
+    <img src="https://skillicons.dev/icons?i=scikit" alt="Scikit-learn" />
   </a>
 </p>
 
-### Socials
+### Контакты
 
 <p align="left"> 
   <a href="https://github.com/danielnru" target="_blank" rel="noreferrer">
