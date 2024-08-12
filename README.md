@@ -23,19 +23,19 @@
 Библиотеки для анализа данных и машинного обучения
 <p align="left">
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=pandas" width="36" height="36" alt="Pandas" />
+    <img src="https://img.icons8.com/external-flat-juicy-fish/50/000000/external-pandas-data-science-and-machine-learning-flat-flat-juicy-fish.png" width="36" height="36" alt="Pandas" />
   </a>
   <a href="https://numpy.org/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=numpy" width="36" height="36" alt="NumPy" />
+    <img src="https://img.icons8.com/external-flat-juicy-fish/50/000000/external-numpy-data-science-and-machine-learning-flat-flat-juicy-fish.png" width="36" height="36" alt="NumPy" />
   </a>
   <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=matplotlib" width="36" height="36" alt="Matplotlib" />
   </a>
   <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=seaborn" width="36" height="36" alt="Seaborn" />
+    <img src="https://img.icons8.com/external-flat-juicy-fish/50/000000/external-seaborn-data-science-and-machine-learning-flat-flat-juicy-fish.png" width="36" height="36" alt="Seaborn" />
   </a>
   <a href="https://xgboost.readthedocs.io/" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/ios/50/000000/xgboost.png" width="36" height="36" alt="XGBoost" />
+    <img src="https://img.icons8.com/external-flat-juicy-fish/50/000000/external-xgboost-data-science-and-machine-learning-flat-flat-juicy-fish.png" width="36" height="36" alt="XGBoost" />
   </a>
   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=scikit-learn" width="36" height="36" alt="Scikit-learn" />
@@ -44,16 +44,16 @@
     <img src="https://skillicons.dev/icons?i=tensorflow" width="36" height="36" alt="TensorFlow" />
   </a>
   <a href="https://keras.io/" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/ios/50/000000/keras.png" width="36" height="36" alt="Keras" />
+    <img src="https://img.icons8.com/external-flat-juicy-fish/50/000000/external-keras-data-science-and-machine-learning-flat-flat-juicy-fish.png" width="36" height="36" alt="Keras" />
   </a>
   <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=pytorch" width="36" height="36" alt="PyTorch" />
   </a>
   <a href="https://www.crummy.com/software/BeautifulSoup/" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/ios/50/000000/beautifulsoup.png" width="36" height="36" alt="BeautifulSoup" />
+    <img src="https://img.icons8.com/external-flat-juicy-fish/50/000000/external-beautifulsoup-data-science-and-machine-learning-flat-flat-juicy-fish.png" width="36" height="36" alt="BeautifulSoup" />
   </a>
   <a href="https://python-visualization.github.io/folium/" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/ios/50/000000/folium.png" width="36" height="36" alt="Folium" />
+    <img src="https://img.icons8.com/external-flat-juicy-fish/50/000000/external-folium-data-science-and-machine-learning-flat-flat-juicy-fish.png" width="36" height="36" alt="Folium" />
   </a>
 </p>
 
