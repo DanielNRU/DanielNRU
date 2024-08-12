@@ -29,10 +29,10 @@
     <img src="https://github.com/devicons/devicon/raw/master/icons/numpy/numpy-original-wordmark.svg" width="36" height="36" alt="NumPy" />
   </a>
   <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=matplotlib" width="36" height="36" alt="Matplotlib" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Created_with_Matplotlib-logo.svg/120px-Created_with_Matplotlib-logo.svg.png" width="36" height="36" alt="Matplotlib" />
   </a>
   <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/external-flat-juicy-fish/50/000000/external-seaborn-data-science-and-machine-learning-flat-flat-juicy-fish.png" width="36" height="36" alt="Seaborn" />
+    <img src="https://i2.wp.com/miro.medium.com/1*vzSKF-Ken1NtAR_voumzUg.png" width="36" height="36" alt="Seaborn" />
   </a>
   <a href="https://xgboost.readthedocs.io/" target="_blank" rel="noreferrer">
     <img src="https://img.icons8.com/external-flat-juicy-fish/50/000000/external-xgboost-data-science-and-machine-learning-flat-flat-juicy-fish.png" width="36" height="36" alt="XGBoost" />
@@ -56,19 +56,6 @@
     <img src="https://img.icons8.com/external-flat-juicy-fish/50/000000/external-folium-data-science-and-machine-learning-flat-flat-juicy-fish.png" width="36" height="36" alt="Folium" />
   </a>
 </p>
-
-### Контакты
-
-<p align="left">
-  <a href="https://t.me/danielnru" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white" width="48" height="48" alt="Telegram" />
-  </a>
-  <a href="https://www.linkedin.com/in/danielnru" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="48" height="48" alt="LinkedIn" />
-  </a>
-</p>
-
-<p align="left"> <a href="https://www.linkedin.com/in/danielnru/«><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> </p>
 
 ## Мои проекты
 
