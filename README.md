@@ -32,28 +32,15 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Created_with_Matplotlib-logo.svg/120px-Created_with_Matplotlib-logo.svg.png" width="36" height="36" alt="Matplotlib" />
   </a>
   <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://i2.wp.com/miro.medium.com/1*vzSKF-Ken1NtAR_voumzUg.png" width="36" height="36" alt="Seaborn" />
-  </a>
-  <a href="https://xgboost.readthedocs.io/" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/external-flat-juicy-fish/50/000000/external-xgboost-data-science-and-machine-learning-flat-flat-juicy-fish.png" width="36" height="36" alt="XGBoost" />
-  </a>
+    <img src="https://assets-global.website-files.com/652e90beeb5eea3b3a2c9078/65e0e0d7a8b6dfddf2c89423_seaborn-p-1080.png" width="36" height="36" alt="Seaborn" />
   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
     <img src="https://github.com/devicons/devicon/raw/master/icons/scikitlearn/scikitlearn-original.svg" width="36" height="36" alt="Scikit-learn" />
   </a>
   <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=tensorflow" width="36" height="36" alt="TensorFlow" />
   </a>
-  <a href="https://keras.io/" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/external-flat-juicy-fish/50/000000/external-keras-data-science-and-machine-learning-flat-flat-juicy-fish.png" width="36" height="36" alt="Keras" />
-  </a>
   <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=pytorch" width="36" height="36" alt="PyTorch" />
-  </a>
-  <a href="https://www.crummy.com/software/BeautifulSoup/" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/external-flat-juicy-fish/50/000000/external-beautifulsoup-data-science-and-machine-learning-flat-flat-juicy-fish.png" width="36" height="36" alt="BeautifulSoup" />
-  </a>
-  <a href="https://python-visualization.github.io/folium/" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/external-flat-juicy-fish/50/000000/external-folium-data-science-and-machine-learning-flat-flat-juicy-fish.png" width="36" height="36" alt="Folium" />
   </a>
 </p>
 
