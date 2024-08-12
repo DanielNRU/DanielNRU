@@ -12,74 +12,50 @@
 
 ### Навыки
 
-### Языки программирования
-
+Языки программирования
 <p align="left">
   <a href="https://www.python.org/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=python" width="36" height="36" alt="Python" />
   </a>
   <a href="https://www.sql.org/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=sql" width="36" height="36" alt="SQL" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6c/SQL_logo.svg" width="36" height="36" alt="SQL" />
   </a>
 </p>
 Библиотеки для анализа данных и машинного обучения
 <p align="left">
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=pandas" width="36" height="36" alt="Pandas" />
+    <img src="https://img.icons8.com/ios/50/000000/pandas.png" width="36" height="36" alt="Pandas" />
   </a>
   <a href="https://numpy.org/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=numpy" width="36" height="36" alt="NumPy" />
+    <img src="https://img.icons8.com/ios/50/000000/numpy.png" width="36" height="36" alt="NumPy" />
   </a>
   <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=matplotlib" width="36" height="36" alt="Matplotlib" />
+    <img src="https://img.icons8.com/ios/50/000000/matplotlib.png" width="36" height="36" alt="Matplotlib" />
   </a>
   <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=seaborn" width="36" height="36" alt="Seaborn" />
+    <img src="https://img.icons8.com/ios/50/000000/seaborn.png" width="36" height="36" alt="Seaborn" />
   </a>
   <a href="https://xgboost.readthedocs.io/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=xgboost" width="36" height="36" alt="XGBoost" />
+    <img src="https://img.icons8.com/ios/50/000000/xgboost.png" width="36" height="36" alt="XGBoost" />
   </a>
   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=scikit" width="36" height="36" alt="Scikit-learn" />
+    <img src="https://img.icons8.com/ios/50/000000/scikit-learn.png" width="36" height="36" alt="Scikit-learn" />
   </a>
   <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=tensorflow" width="36" height="36" alt="TensorFlow" />
+    <img src="https://img.icons8.com/ios/50/000000/tensorflow.png" width="36" height="36" alt="TensorFlow" />
   </a>
   <a href="https://keras.io/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=keras" width="36" height="36" alt="Keras" />
+    <img src="https://img.icons8.com/ios/50/000000/keras.png" width="36" height="36" alt="Keras" />
   </a>
   <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=pytorch" width="36" height="36" alt="PyTorch" />
+    <img src="https://img.icons8.com/ios/50/000000/pytorch.png" width="36" height="36" alt="PyTorch" />
   </a>
   <a href="https://www.crummy.com/software/BeautifulSoup/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=beautifulsoup" width="36" height="36" alt="BeautifulSoup" />
+    <img src="https://img.icons8.com/ios/50/000000/beautifulsoup.png" width="36" height="36" alt="BeautifulSoup" />
   </a>
   <a href="https://python-visualization.github.io/folium/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=folium" width="36" height="36" alt="Folium" />
+    <img src="https://img.icons8.com/ios/50/000000/folium.png" width="36" height="36" alt="Folium" />
   </a>
-</p>
-
-### Языки программирования
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python" width="36" height="36" alt="Python" />
-  <img src="https://skillicons.dev/icons?i=sql" width="36" height="36" alt="SQL" />
-</p>
-
-### Библиотеки для анализа данных и машинного обучения
-
-<p align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Pandas_logo.svg/1200px-Pandas_logo.svg.png" width="36" height="36" alt="Pandas" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/NumPy_logo_2020.svg/1024px-NumPy_logo_2020.svg.png" width="36" height="36" alt="NumPy" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Matplotlib_icon.svg/1024px-Matplotlib_icon.svg.png" width="36" height="36" alt="Matplotlib" />
-  <img src="https://seaborn.pydata.org/_images/seaborn-logo.svg" width="36" height="36" alt="Seaborn" />
-  <img src="https://xgboost.readthedocs.io/en/latest/_static/xgboost-logo.png" width="36" height="36" alt="XGBoost" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png" width="36" height="36" alt="Scikit-learn" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/TensorFlow_logo.svg/1024px-TensorFlow_logo.svg.png" width="36" height="36" alt="TensorFlow" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Keras_logo.svg/1280px-Keras_logo.svg.png" width="36" height="36" alt="Keras" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/PyTorch_logo_2018.svg/1024px-PyTorch_logo_2018.svg.png" width="36" height="36" alt="PyTorch" />
-  <img src="https://www.crummy.com/software/BeautifulSoup/bs4/doc/_images/beautifulsoup.png" width="36" height="36" alt="BeautifulSoup" />
-  <img src="https://folium.readthedocs.io/en/latest/_images/folium_logo.png" width="36" height="36" alt="Folium" />
 </p>
 
 
