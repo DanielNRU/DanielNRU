@@ -12,16 +12,14 @@
 
 ### Навыки
 
-### Навыки
-
 #### Языки программирования
 
 <p align="left">
   <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" width="36" height="36" alt="Python" />
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" width="48" height="48" alt="Python" />
   </a>
   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white" width="36" height="36" alt="SQL" />
+    <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white" width="48" height="48" alt="SQL" />
   </a>
 </p>
 
@@ -29,16 +27,16 @@
 
 <p align="left">
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" width="36" height="36" alt="Pandas" />
+    <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" width="48" height="48" alt="Pandas" />
   </a>
   <a href="https://numpy.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" width="36" height="36" alt="NumPy" />
+    <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" width="48" height="48" alt="NumPy" />
   </a>
   <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Matplotlib-115570?style=for-the-badge&logo=matplotlib&logoColor=white" width="36" height="36" alt="Matplotlib" />
+    <img src="https://img.shields.io/badge/Matplotlib-115570?style=for-the-badge&logo=matplotlib&logoColor=white" width="48" height="48" alt="Matplotlib" />
   </a>
   <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Seaborn-1F77B4?style=for-the-badge&logo=seaborn&logoColor=white" width="36" height="36" alt="Seaborn" />
+    <img src="https://img.shields.io/badge/Seaborn-1F77B4?style=for-the-badge&logo=seaborn&logoColor=white" width="48" height="48" alt="Seaborn" />
   </a>
 </p>
 
@@ -46,19 +44,19 @@
 
 <p align="left">
   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" width="36" height="36" alt="Scikit-learn" />
+    <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" width="48" height="48" alt="Scikit-learn" />
   </a>
   <a href="https://xgboost.readthedocs.io/en/latest/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/XGBoost-0089E0?style=for-the-badge&logo=xgboost&logoColor=white" width="36" height="36" alt="XGBoost" />
+    <img src="https://img.shields.io/badge/XGBoost-0089E0?style=for-the-badge&logo=xgboost&logoColor=white" width="48" height="48" alt="XGBoost" />
   </a>
   <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" width="36" height="36" alt="TensorFlow" />
+    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" width="48" height="48" alt="TensorFlow" />
   </a>
   <a href="https://keras.io/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" width="36" height="36" alt="Keras" />
+    <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" width="48" height="48" alt="Keras" />
   </a>
   <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" width="36" height="36" alt="PyTorch" />
+    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" width="48" height="48" alt="PyTorch" />
   </a>
 </p>
 
@@ -66,25 +64,24 @@
 
 <p align="left">
   <a href="https://www.crummy.com/software/BeautifulSoup/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/BeautifulSoup-6D5E8F?style=for-the-badge&logo=beautifulsoup&logoColor=white" width="36" height="36" alt="BeautifulSoup" />
+    <img src="https://img.shields.io/badge/BeautifulSoup-6D5E8F?style=for-the-badge&logo=beautifulsoup&logoColor=white" width="48" height="48" alt="BeautifulSoup" />
   </a>
   <a href="https://folium.readthedocs.io/en/latest/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Folium-4B9B9A?style=for-the-badge&logo=folium&logoColor=white" width="36" height="36" alt="Folium" />
+    <img src="https://img.shields.io/badge/Folium-4B9B9A?style=for-the-badge&logo=folium&logoColor=white" width="48" height="48" alt="Folium" />
   </a>
 </p>
 
 ### Контакты
 
-<p align="left"> 
-  <a href="https://github.com/danielnru" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+<p align="left">
+  <a href="https://t.me/danielnru" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white" width="48" height="48" alt="Telegram" />
   </a>
   <a href="https://www.linkedin.com/in/danielnru" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="48" height="48" alt="LinkedIn" />
   </a>
 </p>
 
-- 📧 Email: [job@danieln.ru](mailto:job@danieln.ru)
 
 ## Мои проекты
 
