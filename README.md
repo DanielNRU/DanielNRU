@@ -12,11 +12,11 @@
 
 ### Навыки
 
-### Skills
+### Навыки
 
-#### Programming Languages
+#### Языки программирования
 
-<p align="center">
+<p align="left">
   <a href="https://www.python.org/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" width="36" height="36" alt="Python" />
   </a>
@@ -25,9 +25,9 @@
   </a>
 </p>
 
-#### Data Science Libraries
+#### Основные библиотеки Python и Data Science
 
-<p align="center">
+<p align="left">
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" width="36" height="36" alt="Pandas" />
   </a>
@@ -42,9 +42,9 @@
   </a>
 </p>
 
-#### Machine Learning & Analytics
+#### Машинное обучение и аналитика
 
-<p align="center">
+<p align="left">
   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" width="36" height="36" alt="Scikit-learn" />
   </a>
@@ -62,9 +62,9 @@
   </a>
 </p>
 
-#### Web Scraping & Visualization
+#### Веб-скрапинг и визуализация
 
-<p align="center">
+<p align="left">
   <a href="https://www.crummy.com/software/BeautifulSoup/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/BeautifulSoup-6D5E8F?style=for-the-badge&logo=beautifulsoup&logoColor=white" width="36" height="36" alt="BeautifulSoup" />
   </a>
@@ -72,7 +72,6 @@
     <img src="https://img.shields.io/badge/Folium-4B9B9A?style=for-the-badge&logo=folium&logoColor=white" width="36" height="36" alt="Folium" />
   </a>
 </p>
-
 
 ### Контакты
 
