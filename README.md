@@ -10,6 +10,19 @@
 - 🎓 Яндекс Практикум, специальность: "Data Science" (сентябрь, 2024)
 - 🎓 Кемеровский Государственный Университет, специальность: "Автоматизированные системы обработки информации и управления" (2011).
 
+### Бейджи Credly
+[![Google AI Essentials](https://images.credly.com/size/110x110/images/a388fb27-7e39-48a5-a695-6b00d21137d2.png)](https://www.credly.com/badges/a388fb27-7e39-48a5-a695-6b00d21137d2/linked_in_profile)
+[![Google Advanced Data Analytics Certificate](https://images.credly.com/size/110x110/images/b339adc9-4717-4be8-93ac-8f5dc5915474.png)](https://www.credly.com/badges/b339adc9-4717-4be8-93ac-8f5dc5915474/linked_in_profile)
+[![IBM AI Engineering Professional Certificate (V2)](https://images.credly.com/size/110x110/images/2e76509a-6ae6-4aba-8910-5876268d4912.png)](https://www.credly.com/badges/2e76509a-6ae6-4aba-8910-5876268d4912/linked_in_profile)
+[![IBM Data Science Professional Certificate](https://images.credly.com/size/110x110/images/7bd9bd39-533b-4708-91e1-0da3add17250.png)](https://www.credly.com/badges/7bd9bd39-533b-4708-91e1-0da3add17250/linked_in_profile)
+
+### Сертификаты Coursera
+
+- [Google Advanced Data Analytics](https://www.coursera.org/account/accomplishments/specialization/YCUSJ9AMQ7X5)
+- [Google Data Analytics](https://www.coursera.org/account/accomplishments/specialization/ZURZXLGEJKSH)
+- [Machine Learning](https://www.coursera.org/account/accomplishments/specialization/CB66P7ZDFDGL)
+- [Introduction to Statistics](https://www.coursera.org/account/accomplishments/verify/8BFTAHKZJVEY)
+
 ### Навыки
 Языки программирования
 <p align="left">
