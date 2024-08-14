@@ -13,7 +13,7 @@
 ### Бейджи Credly
 [![Google AI Essentials](https://images.credly.com/size/110x110/images/ea3eec65-ddad-4242-9c59-1defac0fa2d9/image.png)](https://www.credly.com/badges/a388fb27-7e39-48a5-a695-6b00d21137d2/linked_in_profile)
 [![Google Advanced Data Analytics Certificate](https://images.credly.com/size/110x110/images/9267a387-1a51-4ebe-8c05-976a5ec4c3d0/image.png)](https://www.credly.com/badges/b339adc9-4717-4be8-93ac-8f5dc5915474/linked_in_profile)
-[![Google Data Analytics Professional Certificate](https://images.credly.com/size/110x110/images/7abb071f-772a-46fe-a899-5a11699a62dc/GCC_badge_DA_1000x1000.png)](https://www.credly.com/org/coursera/badge/google-data-analytics-professional-certificate.3https://www.credly.com/org/coursera/badge/google-data-analytics-professional-certificate.3)
+[![Google Data Analytics Professional Certificate](https://images.credly.com/size/110x110/images/d41de2b7-cbc2-47ec-bcf1-ebecbe83872f/GCC_badge_DA_1000x1000.png)](https://www.credly.com/earner/earned/badge/c4906dec-663b-4438-898a-a84c3261b925)
 [![IBM AI Engineering Professional Certificate (V2)](https://images.credly.com/size/110x110/images/5d33407f-063c-41e1-ab97-79603bd33095/Professional_Certificate_-_AI_Engineering.png)](https://www.credly.com/badges/2e76509a-6ae6-4aba-8910-5876268d4912/linked_in_profile)
 [![IBM Data Science Professional Certificate](https://images.credly.com/size/110x110/images/0f740f0e-52f0-4ff3-bcac-e8d2ff735c07/image.png)](https://www.credly.com/badges/7bd9bd39-533b-4708-91e1-0da3add17250/linked_in_profile)
 
