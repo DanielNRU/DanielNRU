@@ -22,6 +22,11 @@
 - [Machine Learning (Stanford University)](https://www.coursera.org/account/accomplishments/specialization/CB66P7ZDFDGL)
 - [Introduction to Statistics (Stanford University)](https://www.coursera.org/account/accomplishments/verify/8BFTAHKZJVEY)
 
+### Сертификаты Stepik
+
+- [Basics of statistics](https://stepik.org/cert/2401088?lang=en)
+- [Python Programming](https://stepik.org/cert/1734559?lang=en)
+
 ### Навыки
 Языки программирования
 <p align="left">
