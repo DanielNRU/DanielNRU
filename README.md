@@ -19,8 +19,8 @@
 
 ### Сертификаты Coursera
 
-- [Machine Learning](https://www.coursera.org/account/accomplishments/specialization/CB66P7ZDFDGL)
-- [Introduction to Statistics](https://www.coursera.org/account/accomplishments/verify/8BFTAHKZJVEY)
+- [Machine Learning (Stanford University)](https://www.coursera.org/account/accomplishments/specialization/CB66P7ZDFDGL)
+- [Introduction to Statistics (Stanford University)](https://www.coursera.org/account/accomplishments/verify/8BFTAHKZJVEY)
 
 ### Навыки
 Языки программирования
